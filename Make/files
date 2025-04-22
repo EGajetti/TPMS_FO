@@ -1,0 +1,5 @@
+myWallHeatFlux/myWallHeatFlux.C
+myWallShearStress/myWallShearStress.C
+myHTC/myHTC.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmyFieldFunctionObjects

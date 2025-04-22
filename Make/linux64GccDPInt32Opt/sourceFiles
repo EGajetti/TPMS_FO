@@ -1,0 +1,6 @@
+SOURCE = \
+myWallHeatFlux/myWallHeatFlux.C \
+myWallShearStress/myWallShearStress.C \
+myHTC/myHTC.C \
+
+# sources
