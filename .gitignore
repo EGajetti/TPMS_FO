@@ -2,6 +2,11 @@ myNormalStress/*
 tau_vector/*
 myMultiFieldValue/*
 lnInclude/*
-Make/linux64GccDPInt32Opt/*
-linux64GccDPInt32Opt/*
+Make/linux64GccDPInt32Opt/myHTC/*
+Make/linux64GccDPInt32Opt/myHTC/**
+
+Make/linux64GccDPInt32Opt/myHTC/myHTC.C.dep
+Make/linux64GccDPInt32Opt/myHTC/myHTC.o
 linux64GccDPInt32Opt/
+*.o
+*.dep
